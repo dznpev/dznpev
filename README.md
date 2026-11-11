@@ -4,7 +4,7 @@
 
 <img src="./assets/coding.svg" width="460" alt="A developer focused on his monitors" />
 
-**Student · Developer · Lifelong learner**
+**Developer - Lifelong learner**
 
 📍 Ho Chi Minh City, Vietnam
 
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a student developer based in Ho Chi Minh City, and I've been writing code for as long as I can remember. What started as curiosity — taking things apart just to see how they work — turned into a habit of building: small scripts, websites, automation tools, and the occasional experiment that never sees the light of day.
+I'm a university student and developer based in Ho Chi Minh City, and I've been writing code for as long as I can remember. What started as curiosity — taking things apart just to see how they work — turned into a habit of building: small scripts, websites, automation tools, and the occasional experiment that never sees the light of day.
 
 I enjoy the whole journey, not just the finished product: understanding the problem, choosing the right tool, and turning an idea into something people can actually use. I like working across the stack — from a database schema and an API to the interface someone clicks on — and I'm just as happy digging into a C++ or Python problem when performance matters.
 
