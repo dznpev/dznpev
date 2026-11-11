@@ -69,6 +69,9 @@ I'm still learning, and I hope I always will be. I believe the best way to grow 
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=ngynmahn070929@gmail.com">
     <img src="./assets/badges/gmail.svg" alt="Email me at ngynmahn070929@gmail.com" height="30" />
   </a>
+  <a href="https://github.com/dznpev">
+    <img src="./assets/badges/github.svg" alt="GitHub Profile" height="30" />
+  </a>
 </p>
 
 ---
